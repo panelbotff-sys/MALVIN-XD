@@ -1,5 +1,5 @@
 {
-  "name": "MALVIN-XD",
+  "name": "MANZZ-HECKER",
   "version": "2.0.0",
   "description": "The Best WhatsApp Bot Created By Malvin King",
   "main": "index.js",
@@ -9,8 +9,8 @@
   },
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
-    "stop": "pm2 stop MALVIN-XD",
-    "restart": "pm2 restart MALVIN-XD"
+    "stop": "pm2 stop MANZZ-HECKER",
+    "restart": "pm2 restart MANZZ-HECKER"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "github:XdKing2/Malvin-Baileys",
